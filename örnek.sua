@@ -1,0 +1,2 @@
+buton=buton();
+buton.tıklandı={mesaj.uyarı("ewf");};
